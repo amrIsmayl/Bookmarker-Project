@@ -1,0 +1,28 @@
+*{
+    font-family: arial;
+}
+
+
+h3{
+    color: #AAA;
+}
+
+.bg_colar{
+    background-color: #eeeeee;
+}
+
+button:hover{
+    background-color: #0a3f77;
+    border: 1px solid #0a3f77;
+	box-shadow: 2px 5px 3px 0px #888;
+}
+
+a:hover{
+    background-color: #0a3f77;
+    border: 1px solid #0a3f77;
+	box-shadow: 2px 5px 3px 0px #888;
+}
+
+.row_table{
+    background-image: linear-gradient(#EEE,#FFF);
+}
